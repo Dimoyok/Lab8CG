@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/src/TR_ComboBox.qml</file>
+        <file>qml/src/DateSelector.qml</file>
+        <file>qml/src/EditableListView.qml</file>
+        <file>qml/src/TR_Label.qml</file>
+        <file>qml/src/main.qml</file>
+        <file>qml/src/Scrollbar.qml</file>
+        <file>qml/src/SimpleButton.qml</file>
+        <file>qml/src/SimpleListView.qml</file>
+        <file>qml/src/TR_Slider.qml</file>
+        <file>qml/src/TableItem.qml</file>
+        <file>qml/src/TableView.qml</file>
+        <file>qml/src/TextInputStyled.qml</file>
+        <file>qml/src/TimeSelector.qml</file>
+        <file>qml/src/ToggleButton.qml</file>
+        <file>qml/src/Toolbar.qml</file>
+        <file>qml/src/TR_CheckBox.qml</file>
+        <file>qml/src/TR_SpinBox.qml</file>
+        <file>qml/src/SliderMinMax.qml</file>
+    </qresource>
+</RCC>
